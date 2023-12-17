@@ -169,7 +169,7 @@ could also build them yourself!_
 
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors.
 - [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) - Alternative hub for Milight/LimitlessLED devices that uses MQTT.
-- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges.
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee2mqtt acts as a gateway between a zigbee network and an MQTT network.For this to work you will need to have installed and configured the MQTT integration.You can manage/view your Zigbee devices from home assistant via MQTT.
 
 ### DIY ble Gateway
 
