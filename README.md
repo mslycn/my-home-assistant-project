@@ -45,8 +45,8 @@ to suggest additions, updates or removals.
   - [Alternative Dashboards](#alternative-dashboards)
 - [Custom Integrations](#custom-integrations)
 - [DIY](#diy)
-  - [DIY Gateways](#diy-gateways)
-  - [DIY Projects](#diy-projects)
+  - [DIY Zigbee Gateways](#diy-zigbee-gateways)
+  - [DIY BLE Gateways](#diy-ble-gateway)
 - [Online Resources](#online-resources)
   - [Blogs](#blogs)
   - [YouTube Channels](#youtube-channels)
@@ -165,10 +165,8 @@ could also build them yourself!_
 - [Magic Cards](https://github.com/maddox/magic-cards) - RFID scannable cards that you can program to do anything.
 - [Tasmota](https://github.com/arendst/Tasmota) - Firmware for ESP8266 boards and devices.
 
-### DIY Gateways
+### DIY zigbee Gateways
 
-- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors.
-- [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) - Alternative hub for Milight/LimitlessLED devices that uses MQTT.
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee2mqtt acts as a gateway between a zigbee network and an MQTT network.For this to work you will need to have installed and configured the MQTT integration.You can manage/view your Zigbee devices from home assistant via MQTT.
 
 ### DIY ble Gateway
