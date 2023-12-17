@@ -173,7 +173,7 @@ could also build them yourself!_
 
 ### DIY ble Gateway
 
-- [HA SwitchPlate](https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck) - LCD Touchscreen wall switch replacement.
+- [How to  get bindkey](https://www.matterxiaomi.com/boards/topic/14414/passive-ble-monitor-integrationadd-xiami-motion-sensor-2-rtcgq02lm-to-home-assistant-bindkey#18939) - You need to  encryption packets with bindkey..
 
 
 ## Online Resources
