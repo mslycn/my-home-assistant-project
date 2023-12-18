@@ -169,9 +169,17 @@ could also build them yourself!_
 
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee2mqtt acts as a gateway between a zigbee network and an MQTT network.For this to work you will need to have installed and configured the MQTT integration.You can manage/view your Zigbee devices from home assistant via MQTT.
 
-### DIY ble Gateway
+### DIY rpi ble Gateway
+
+_Make Raspberry built-in bluetooth adaper acting as Bluetooth gateway_
+
+- [Make](https://blog.matterxiaomi.com/blog/make-raspberry-acting-bluetooth-gateway-part2/) - You need to  encryption packets with bindkey..
+- [How to  get bindkey](https://www.matterxiaomi.com/boards/topic/14414/passive-ble-monitor-integrationadd-xiami-motion-sensor-2-rtcgq02lm-to-home-assistant-bindkey#18939) - You need to  encryption packets with bindkey..
+
+### DIY  ble Gateway
 
 - [How to  get bindkey](https://www.matterxiaomi.com/boards/topic/14414/passive-ble-monitor-integrationadd-xiami-motion-sensor-2-rtcgq02lm-to-home-assistant-bindkey#18939) - You need to  encryption packets with bindkey..
+
 
 
 ## Online Resources
