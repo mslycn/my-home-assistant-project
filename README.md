@@ -173,10 +173,13 @@ could also build them yourself!_
 
 _Make Raspberry built-in bluetooth adaper acting as Bluetooth gateway_
 
-- [Make](https://blog.matterxiaomi.com/blog/make-raspberry-acting-bluetooth-gateway-part2/) - You need to  encryption packets with bindkey..
+- [install latest bluez 5.66Compile/install latest bluez on Raspberry step by step](https://blog.matterxiaomi.com/blog/make-raspberry-acting-bluetooth-gateway-part1/) - You need to  install latest bluez 5.66Compile/install latest bluez on RaspberryPI..
+- [Make Raspberry acting as Bluetooth gateway](https://blog.matterxiaomi.com/blog/make-raspberry-acting-bluetooth-gateway-part2/) - You need to  Make Raspberry acting as Bluetooth gateway..
 - [How to  get bindkey](https://www.matterxiaomi.com/boards/topic/14414/passive-ble-monitor-integrationadd-xiami-motion-sensor-2-rtcgq02lm-to-home-assistant-bindkey#18939) - You need to  encryption packets with bindkey..
 
 ### DIY  ble Gateway
+
+_This guide will cover how to install the UniFi Controller onto a Raspberry Pi._
 
 - [How to  get bindkey](https://www.matterxiaomi.com/boards/topic/14414/passive-ble-monitor-integrationadd-xiami-motion-sensor-2-rtcgq02lm-to-home-assistant-bindkey#18939) - You need to  encryption packets with bindkey..
 
